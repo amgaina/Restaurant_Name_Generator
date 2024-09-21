@@ -1,4 +1,4 @@
-# Restaurant Name Generator
+# Restaurant_Name_Generator
 
 Welcome to the **Restaurant Name Generator**! This project generates creative and unique restaurant names based on the cuisine and menu items for a given restaurant.
 
@@ -39,7 +39,7 @@ To run the project locally, follow these steps:
     ```bash
     pip install -r requirements.txt
     ```
-5. Create the secret API key from the OpenAI:
+5. Create the secret API key from the OpenAI.
 6. Run the main file:
 
     ```bash
